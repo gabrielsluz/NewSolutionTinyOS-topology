@@ -1,0 +1,10 @@
+250	108	17302
+250	62	22090
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

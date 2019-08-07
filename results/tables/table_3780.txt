@@ -1,0 +1,10 @@
+250	3	4626
+250	0	0
+250	34	19602
+250	40	19445
+250	37	17215
+250	31	18008
+250	22	19125
+error	error	error
+error	error	error
+error	error	error

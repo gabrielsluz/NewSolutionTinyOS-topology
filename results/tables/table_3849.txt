@@ -1,0 +1,10 @@
+250	83	15472
+250	83	29722
+250	82	29726
+250	81	29724
+250	82	29724
+250	82	29723
+250	87	29724
+error	error	error
+error	error	error
+error	error	error

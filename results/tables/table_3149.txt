@@ -1,0 +1,10 @@
+250	78	10683
+250	69	29724
+250	63	29687
+250	76	29767
+250	68	29841
+250	101	29792
+250	99	29766
+error	error	error
+error	error	error
+error	error	error

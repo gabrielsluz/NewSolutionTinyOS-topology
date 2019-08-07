@@ -1,0 +1,10 @@
+250	104	19778
+250	96	19765
+250	95	19602
+250	98	19761
+250	90	19603
+250	90	19754
+250	99	19764
+error	error	error
+error	error	error
+error	error	error

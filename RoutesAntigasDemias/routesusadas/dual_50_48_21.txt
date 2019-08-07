@@ -1,0 +1,13 @@
+  // cost: 6
+  // len: 4
+  uint8_t numPaths = 2;
+  uint8_t sourceNode = 48;
+  uint8_t destinationNode = 21;
+//uint8_t numHops = 1;
+  uint8_t numHops = 4;
+  uint8_t hops[4][4] = {
+    {48, 21, 2, 3},
+    {48, 49, 1, 1},
+    {49, 25, 2, 1},
+    {25, 21, 1, 2},
+  };

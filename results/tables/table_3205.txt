@@ -1,0 +1,10 @@
+250	148	19856
+250	156	19791
+250	126	19800
+250	127	19953
+250	126	19761
+250	65	10037
+250	0	0
+error	error	error
+error	error	error
+error	error	error

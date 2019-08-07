@@ -1,0 +1,10 @@
+250	106	8850
+250	109	29793
+250	109	29796
+250	102	29789
+250	106	29793
+250	106	29777
+250	97	29779
+error	error	error
+error	error	error
+error	error	error

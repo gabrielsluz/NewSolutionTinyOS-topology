@@ -1,0 +1,10 @@
+250	53	15695
+250	10	23485
+250	4	13599
+250	51	27048
+250	56	28729
+250	71	29704
+250	74	29742
+error	error	error
+error	error	error
+error	error	error

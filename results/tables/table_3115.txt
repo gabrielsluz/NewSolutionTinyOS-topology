@@ -1,0 +1,10 @@
+250	0	0
+250	0	0
+250	19	11786
+250	43	6655
+250	3	29674
+250	56	27598
+250	2	49
+error	error	error
+error	error	error
+error	error	error

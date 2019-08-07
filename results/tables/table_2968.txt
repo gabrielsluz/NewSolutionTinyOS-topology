@@ -1,0 +1,10 @@
+250	91	17063
+250	95	29803
+250	94	29645
+250	91	29469
+250	100	29593
+250	107	29564
+250	104	29492
+error	error	error
+error	error	error
+error	error	error

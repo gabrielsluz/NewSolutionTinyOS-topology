@@ -1,0 +1,10 @@
+250	68	7341
+250	46	29775
+250	63	29595
+250	71	29802
+250	86	29734
+250	92	29724
+error	92	29803
+error	error	error
+error	error	error
+error	error	error

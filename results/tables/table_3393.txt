@@ -1,0 +1,10 @@
+250	3	13718
+250	0	0
+250	6	1594
+250	2	159
+250	1	0
+250	23	16893
+250	17	9885
+error	error	error
+error	error	error
+error	error	error

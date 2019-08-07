@@ -1,0 +1,10 @@
+250	63	11487
+250	62	29725
+250	70	29555
+250	61	29727
+250	60	29566
+250	67	29729
+250	69	29727
+error	error	error
+error	error	error
+error	error	error

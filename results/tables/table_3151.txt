@@ -1,0 +1,10 @@
+250	356	10125
+250	62	29800
+250	71	29646
+250	115	29805
+250	120	29726
+250	127	29813
+250	128	29725
+error	error	error
+error	error	error
+error	error	error

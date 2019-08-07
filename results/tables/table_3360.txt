@@ -1,0 +1,10 @@
+250	82	19610
+250	91	19446
+250	84	19607
+250	75	19284
+250	83	19767
+250	72	19605
+250	77	19440
+error	error	error
+error	error	error
+error	error	error

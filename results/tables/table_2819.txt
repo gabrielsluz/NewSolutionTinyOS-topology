@@ -1,0 +1,10 @@
+250	26	11544
+250	60	11786
+250	22	12426
+250	72	19602
+250	8	2753
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

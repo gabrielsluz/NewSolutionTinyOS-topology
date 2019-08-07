@@ -1,0 +1,10 @@
+250	97	16910
+250	95	29730
+250	100	29713
+250	101	29723
+250	96	29725
+250	97	29721
+250	98	29405
+error	error	error
+error	error	error
+error	error	error

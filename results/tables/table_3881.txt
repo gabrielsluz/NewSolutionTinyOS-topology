@@ -1,0 +1,10 @@
+250	185	19844
+250	174	19780
+250	15	1593
+250	0	0
+250	19	2333
+250	17	1853
+250	3	325
+error	error	error
+error	error	error
+error	error	error

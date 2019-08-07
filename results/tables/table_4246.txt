@@ -1,0 +1,10 @@
+250	101	16584
+250	92	29722
+250	100	29730
+250	99	29732
+250	92	29721
+250	94	29718
+250	88	29565
+error	error	error
+error	error	error
+error	error	error

@@ -1,0 +1,10 @@
+250	6	4376
+250	31	19471
+250	19	14245
+250	1	8
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

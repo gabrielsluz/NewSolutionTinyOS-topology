@@ -1,0 +1,10 @@
+50	0	0
+50	0	0
+50	0	0
+50	0	0
+50	0	0
+50	0	0
+50	0	0
+error	error	error
+error	error	error
+error	error	error

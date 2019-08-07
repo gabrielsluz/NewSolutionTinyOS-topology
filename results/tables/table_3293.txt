@@ -1,0 +1,10 @@
+250	102	17225
+250	93	29725
+250	86	28779
+250	102	29723
+250	104	29723
+250	97	29727
+250	102	29403
+error	error	error
+error	error	error
+error	error	error

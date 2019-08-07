@@ -1,0 +1,10 @@
+250	21	19615
+250	19	19761
+250	21	15460
+250	15	19291
+250	11	18638
+250	13	18499
+250	10	18811
+error	error	error
+error	error	error
+error	error	error

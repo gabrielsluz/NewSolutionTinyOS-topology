@@ -1,0 +1,10 @@
+250	97	19445
+250	94	29566
+250	72	29404
+250	49	19283
+250	61	29249
+250	62	18485
+250	121	29566
+error	error	error
+error	error	error
+error	error	error

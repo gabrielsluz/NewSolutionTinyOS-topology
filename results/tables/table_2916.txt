@@ -1,0 +1,10 @@
+250	93	14830
+250	92	29649
+250	94	29771
+250	92	29719
+250	133	29721
+250	189	29737
+250	164	29872
+error	error	error
+error	error	error
+error	error	error

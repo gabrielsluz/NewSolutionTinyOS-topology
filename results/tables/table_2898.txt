@@ -1,0 +1,10 @@
+250	179	19802
+250	179	19786
+250	180	19840
+250	80	8758
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

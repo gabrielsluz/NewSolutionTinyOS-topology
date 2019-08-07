@@ -1,0 +1,10 @@
+250	114	19606
+250	109	29722
+250	115	19603
+250	85	29725
+250	83	29725
+250	117	29725
+250	107	29725
+error	error	error
+error	error	error
+error	error	error

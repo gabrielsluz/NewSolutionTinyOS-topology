@@ -1,0 +1,10 @@
+250	71	18344
+250	16	7416
+250	16	5250
+250	1	0
+250	24	29665
+250	3	11548
+250	0	0
+error	error	error
+error	error	error
+error	error	error

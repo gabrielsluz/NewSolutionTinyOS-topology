@@ -1,0 +1,10 @@
+250	40	18714
+250	68	14519
+250	37	10998
+250	22	19534
+250	74	19505
+250	84	19445
+250	88	19682
+error	error	error
+error	error	error
+error	error	error

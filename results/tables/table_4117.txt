@@ -1,0 +1,10 @@
+250	85	19288
+250	90	29723
+250	110	29564
+250	105	19608
+250	105	29726
+250	112	29721
+250	106	29725
+error	error	error
+error	error	error
+error	error	error

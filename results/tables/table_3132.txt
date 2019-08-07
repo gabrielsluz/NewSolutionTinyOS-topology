@@ -1,0 +1,10 @@
+250	359	17213
+250	106	29533
+250	124	29758
+250	385	29732
+250	0	1755
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

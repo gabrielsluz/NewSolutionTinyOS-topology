@@ -1,0 +1,10 @@
+250	45	18485
+250	61	29727
+250	74	29717
+250	51	29725
+250	49	18492
+250	49	28926
+250	63	18802
+error	error	error
+error	error	error
+error	error	error

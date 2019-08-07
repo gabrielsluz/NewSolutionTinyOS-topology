@@ -1,0 +1,10 @@
+250	88	15633
+250	97	29724
+250	94	29719
+250	93	29725
+250	94	29726
+250	92	29732
+250	93	29724
+error	error	error
+error	error	error
+error	error	error

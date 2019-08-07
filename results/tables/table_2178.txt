@@ -1,0 +1,10 @@
+250	109	14603
+250	28	13609
+250	20	12059
+250	124	14758
+250	123	14949
+250	137	15017
+250	178	14851
+error	error	error
+error	error	error
+error	error	error

@@ -1,0 +1,10 @@
+250	39	8086
+250	27	18938
+250	126	19786
+250	126	19839
+250	80	12194
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

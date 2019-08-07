@@ -1,0 +1,10 @@
+250	178	19952
+250	177	19763
+250	183	19777
+250	178	19954
+250	176	19479
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

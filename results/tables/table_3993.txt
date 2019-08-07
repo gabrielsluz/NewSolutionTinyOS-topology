@@ -1,0 +1,10 @@
+250	135	13963
+250	133	29803
+250	76	19325
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

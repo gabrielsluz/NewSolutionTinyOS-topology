@@ -1,0 +1,10 @@
+250	8	8134
+250	7	7170
+250	26	15774
+250	3	5746
+250	6	2226
+250	5	7810
+250	0	0
+error	error	error
+error	error	error
+error	error	error

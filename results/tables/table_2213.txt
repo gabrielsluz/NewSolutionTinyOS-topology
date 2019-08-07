@@ -1,0 +1,10 @@
+100	50	9671
+100	50	9764
+100	50	9756
+100	50	9764
+100	50	9763
+100	51	9866
+100	50	9765
+error	error	error
+error	error	error
+error	error	error

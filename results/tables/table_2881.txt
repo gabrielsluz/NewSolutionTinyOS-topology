@@ -1,0 +1,10 @@
+250	118	18499
+250	117	29733
+250	116	29570
+250	117	29568
+250	152	29599
+250	16	12889
+250	0	0
+error	error	error
+error	error	error
+error	error	error

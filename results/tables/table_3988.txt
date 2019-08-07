@@ -1,0 +1,10 @@
+250	82	19685
+250	96	19851
+250	85	18795
+250	96	19755
+250	100	19522
+250	81	19420
+250	96	19681
+error	error	error
+error	error	error
+error	error	error

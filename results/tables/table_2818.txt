@@ -1,0 +1,10 @@
+250	26	16431
+250	106	16814
+250	108	29725
+250	97	29726
+250	77	29648
+250	86	29634
+250	33	26378
+error	error	error
+error	error	error
+error	error	error

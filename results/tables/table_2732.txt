@@ -1,0 +1,10 @@
+250	103	19607
+250	106	19756
+250	363	19840
+error	12	2064
+error	0	0
+error	0	0
+error	0	0
+error	error	error
+error	error	error
+error	error	error

@@ -1,0 +1,10 @@
+250	102	17226
+250	96	29722
+250	96	29569
+250	94	29729
+250	91	29724
+250	91	29730
+250	100	29556
+error	error	error
+error	error	error
+error	error	error

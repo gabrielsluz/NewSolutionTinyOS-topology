@@ -1,0 +1,10 @@
+250	55	17382
+250	39	29244
+250	26	27165
+250	21	28772
+250	26	28128
+250	66	28770
+250	58	29565
+error	error	error
+error	error	error
+error	error	error

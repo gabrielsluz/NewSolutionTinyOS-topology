@@ -1,0 +1,10 @@
+250	121	14782
+250	119	14944
+250	78	9395
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

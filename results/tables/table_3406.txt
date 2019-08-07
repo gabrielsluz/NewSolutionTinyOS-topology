@@ -1,0 +1,10 @@
+250	84	19135
+250	88	29730
+250	105	29718
+250	97	29730
+250	94	29557
+250	100	19293
+250	82	29723
+error	error	error
+error	error	error
+error	error	error

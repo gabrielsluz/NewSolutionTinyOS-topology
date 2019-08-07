@@ -1,0 +1,10 @@
+250	104	16591
+250	94	29876
+250	101	29565
+250	105	29731
+250	105	29724
+250	103	29719
+250	66	29879
+error	error	error
+error	error	error
+error	error	error

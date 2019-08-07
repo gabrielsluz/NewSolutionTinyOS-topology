@@ -1,0 +1,10 @@
+250	12	11800
+250	25	19438
+250	47	19290
+250	41	19761
+250	38	19120
+250	25	18326
+250	41	18648
+error	error	error
+error	error	error
+error	error	error

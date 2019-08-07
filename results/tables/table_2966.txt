@@ -1,0 +1,10 @@
+250	108	19613
+250	104	19677
+250	105	19528
+250	106	19854
+250	107	19600
+250	75	13040
+250	0	0
+error	error	error
+error	error	error
+error	error	error

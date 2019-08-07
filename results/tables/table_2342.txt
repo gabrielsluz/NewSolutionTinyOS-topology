@@ -1,0 +1,10 @@
+250	76	15442
+250	364	29397
+250	97	29836
+250	68	29585
+250	98	29580
+250	99	29747
+250	95	29404
+error	error	error
+error	error	error
+error	error	error

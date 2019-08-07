@@ -1,0 +1,10 @@
+250	0	0
+250	73	18958
+250	136	19721
+250	65	12833
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

@@ -1,0 +1,10 @@
+250	20	10218
+250	25	28772
+250	32	29248
+250	33	29409
+250	23	28603
+250	32	28934
+250	32	29246
+error	error	error
+error	error	error
+error	error	error

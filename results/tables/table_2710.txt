@@ -1,0 +1,10 @@
+50	25	2452
+50	23	2350
+50	27	2446
+50	23	2342
+50	25	2343
+50	25	2488
+50	22	2414
+error	error	error
+error	error	error
+error	error	error

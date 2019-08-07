@@ -1,0 +1,10 @@
+250	104	16420
+250	103	29559
+250	104	29731
+250	104	29722
+250	104	29644
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

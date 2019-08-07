@@ -1,0 +1,10 @@
+250	305	19775
+250	124	19610
+250	125	19789
+250	137	16736
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

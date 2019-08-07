@@ -1,0 +1,10 @@
+250	95	15310
+250	93	29725
+250	94	29723
+250	95	29721
+250	91	29723
+250	87	29730
+250	95	29720
+error	error	error
+error	error	error
+error	error	error

@@ -1,0 +1,10 @@
+250	4	2236
+250	7	15937
+250	8	10362
+250	6	29405
+250	12	8932
+250	24	19452
+250	27	19125
+error	error	error
+error	error	error
+error	error	error

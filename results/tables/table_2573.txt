@@ -1,0 +1,10 @@
+250	94	17857
+250	92	29412
+250	80	29728
+250	85	29563
+250	91	29603
+250	53	29732
+250	78	29728
+error	error	error
+error	error	error
+error	error	error

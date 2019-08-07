@@ -1,0 +1,10 @@
+250	8	13574
+250	12	14473
+250	1	0
+250	44	11544
+250	2	5005
+250	25	15141
+250	62	17880
+error	error	error
+error	error	error
+error	error	error

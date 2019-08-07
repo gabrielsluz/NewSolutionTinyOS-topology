@@ -1,0 +1,10 @@
+250	120	19716
+250	114	19609
+250	4	546
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

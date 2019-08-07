@@ -1,0 +1,10 @@
+250	88	13878
+250	88	29717
+250	88	29729
+250	88	29717
+250	112	29725
+250	106	29716
+250	103	29721
+error	error	error
+error	error	error
+error	error	error

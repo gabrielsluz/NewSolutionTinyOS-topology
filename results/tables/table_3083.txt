@@ -1,0 +1,10 @@
+250	116	17584
+250	116	29726
+250	96	27781
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

@@ -1,0 +1,10 @@
+250	1	0
+250	7	9785
+250	29	15790
+250	9	4180
+250	1	0
+250	2	12882
+250	0	0
+error	error	error
+error	error	error
+error	error	error

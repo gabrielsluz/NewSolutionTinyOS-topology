@@ -1,0 +1,10 @@
+250	50	16584
+250	59	29723
+250	55	29562
+250	33	29730
+250	47	29248
+250	54	29417
+250	46	29399
+error	error	error
+error	error	error
+error	error	error

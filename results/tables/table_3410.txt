@@ -1,0 +1,10 @@
+250	81	19622
+250	86	29728
+250	82	29718
+250	78	29245
+250	82	29559
+250	87	29721
+250	87	19449
+error	error	error
+error	error	error
+error	error	error

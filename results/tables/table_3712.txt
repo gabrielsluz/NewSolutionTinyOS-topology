@@ -1,0 +1,10 @@
+250	30	18971
+250	20	17529
+250	21	19124
+250	26	17218
+250	21	17366
+250	30	18011
+250	20	13545
+error	error	error
+error	error	error
+error	error	error

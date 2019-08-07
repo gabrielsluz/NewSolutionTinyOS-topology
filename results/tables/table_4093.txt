@@ -1,0 +1,10 @@
+250	26	12593
+250	28	13385
+250	20	17212
+250	6	13392
+250	44	16098
+250	1	0
+250	44	17849
+error	error	error
+error	error	error
+error	error	error

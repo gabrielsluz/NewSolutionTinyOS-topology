@@ -1,0 +1,10 @@
+250	7	966
+250	37	13384
+250	72	19606
+250	33	19601
+250	20	15148
+250	32	17533
+250	75	19766
+error	error	error
+error	error	error
+error	error	error

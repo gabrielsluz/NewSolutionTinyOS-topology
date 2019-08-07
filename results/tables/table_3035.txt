@@ -1,0 +1,10 @@
+250	214	17612
+250	117	29722
+250	154	29730
+250	164	26953
+250	1	0
+250	42	29649
+250	107	29649
+error	error	error
+error	error	error
+error	error	error

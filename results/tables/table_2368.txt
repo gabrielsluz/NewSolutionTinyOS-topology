@@ -1,0 +1,10 @@
+250	122	19537
+250	47	7522
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

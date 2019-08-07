@@ -1,0 +1,10 @@
+250	137	19890
+250	135	19881
+250	102	10376
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

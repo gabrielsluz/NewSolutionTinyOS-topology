@@ -1,0 +1,10 @@
+250	129	19451
+250	101	19675
+250	100	19528
+250	76	19689
+250	64	19754
+250	81	19764
+250	88	19694
+error	error	error
+error	error	error
+error	error	error

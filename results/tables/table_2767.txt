@@ -1,0 +1,10 @@
+250	125	15622
+250	174	29727
+250	153	28810
+250	0	0
+250	0	0
+250	0	0
+error	0	0
+error	error	error
+error	error	error
+error	error	error

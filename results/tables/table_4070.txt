@@ -1,0 +1,10 @@
+250	243	19846
+250	242	19844
+250	228	19845
+250	232	19846
+250	230	19844
+250	230	19839
+error	234	19842
+error	error	error
+error	error	error
+error	error	error

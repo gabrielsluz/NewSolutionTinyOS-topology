@@ -1,0 +1,10 @@
+250	93	17190
+250	90	29660
+250	85	29724
+250	95	29646
+250	66	28461
+250	90	17282
+250	99	29724
+error	error	error
+error	error	error
+error	error	error

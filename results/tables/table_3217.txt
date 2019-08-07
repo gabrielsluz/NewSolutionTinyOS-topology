@@ -1,0 +1,10 @@
+250	118	17874
+250	132	29586
+250	51	24209
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

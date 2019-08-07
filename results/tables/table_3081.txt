@@ -1,0 +1,10 @@
+250	121	17781
+250	124	29821
+250	129	29739
+250	132	29635
+250	124	29809
+250	24	14814
+250	0	0
+error	error	error
+error	error	error
+error	error	error

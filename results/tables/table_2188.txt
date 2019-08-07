@@ -1,0 +1,10 @@
+250	96	14771
+250	40	9122
+250	66	13774
+250	127	14972
+250	226	14991
+250	172	15499
+250	209	15026
+error	error	error
+error	error	error
+error	error	error

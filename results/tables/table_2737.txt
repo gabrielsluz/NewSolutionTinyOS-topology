@@ -1,0 +1,10 @@
+250	130	19137
+250	148	29484
+250	154	29720
+250	118	29807
+250	94	25506
+250	5	16169
+250	105	29120
+error	error	error
+error	error	error
+error	error	error

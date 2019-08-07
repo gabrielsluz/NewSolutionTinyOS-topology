@@ -1,0 +1,10 @@
+250	88	18020
+250	84	29725
+250	73	29721
+250	83	29562
+250	82	29562
+250	84	29406
+250	85	29724
+error	error	error
+error	error	error
+error	error	error

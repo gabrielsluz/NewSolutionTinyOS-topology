@@ -1,0 +1,10 @@
+250	179	19795
+250	180	19943
+250	86	11084
+250	0	0
+250	26	7983
+250	1	0
+250	1	0
+error	error	error
+error	error	error
+error	error	error

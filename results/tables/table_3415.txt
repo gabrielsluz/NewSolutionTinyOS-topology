@@ -1,0 +1,10 @@
+250	41	18177
+250	26	28128
+250	30	28929
+250	45	29565
+250	31	29722
+250	0	0
+250	45	18005
+error	error	error
+error	error	error
+error	error	error

@@ -1,0 +1,10 @@
+250	126	24812
+250	125	24606
+250	126	24713
+250	130	24807
+250	125	24699
+error	error	error
+error	error	error
+error	error	error
+error	error	error
+error	error	error

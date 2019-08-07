@@ -1,0 +1,10 @@
+250	212	17445
+250	126	29695
+250	110	29501
+250	89	29584
+250	99	29588
+250	103	29557
+250	105	29555
+error	error	error
+error	error	error
+error	error	error

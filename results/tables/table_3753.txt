@@ -1,0 +1,10 @@
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+250	2	483
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

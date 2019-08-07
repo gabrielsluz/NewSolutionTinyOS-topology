@@ -1,0 +1,10 @@
+250	23	16418
+250	48	29724
+250	12	26533
+250	8	24471
+250	3	26851
+250	8	8449
+250	3	5260
+error	error	error
+error	error	error
+error	error	error

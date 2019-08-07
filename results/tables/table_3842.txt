@@ -1,0 +1,10 @@
+250	50	8139
+250	49	29727
+250	51	29722
+250	49	29726
+250	49	29562
+250	48	29722
+250	48	29721
+error	error	error
+error	error	error
+error	error	error

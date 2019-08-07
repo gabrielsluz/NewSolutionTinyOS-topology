@@ -1,0 +1,10 @@
+250	113	18972
+250	35	29246
+250	19	27497
+250	39	11955
+250	14	9562
+250	5	28929
+250	0	0
+error	error	error
+error	error	error
+error	error	error

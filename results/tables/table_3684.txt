@@ -1,0 +1,10 @@
+250	101	19127
+250	90	29725
+250	94	29720
+250	84	29563
+250	89	29564
+250	100	29249
+250	99	29728
+error	error	error
+error	error	error
+error	error	error

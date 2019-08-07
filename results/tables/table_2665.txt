@@ -1,0 +1,10 @@
+250	131	19191
+250	126	29718
+250	134	29633
+250	95	24717
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

@@ -1,0 +1,10 @@
+250	61	15533
+250	116	18794
+250	110	29727
+250	86	29661
+250	176	29596
+250	10	11981
+250	0	0
+error	error	error
+error	error	error
+error	error	error

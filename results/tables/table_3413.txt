@@ -1,0 +1,10 @@
+250	132	18185
+250	106	29726
+250	96	29725
+250	102	29726
+250	97	29560
+250	91	29728
+250	93	29731
+error	error	error
+error	error	error
+error	error	error

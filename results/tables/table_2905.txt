@@ -1,0 +1,10 @@
+250	135	15171
+250	0	4238
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

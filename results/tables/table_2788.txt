@@ -1,0 +1,10 @@
+250	131	15304
+250	137	29729
+250	137	29647
+250	130	29485
+250	135	29778
+250	26	17597
+250	0	0
+error	error	error
+error	error	error
+error	error	error

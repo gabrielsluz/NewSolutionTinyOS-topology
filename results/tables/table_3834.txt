@@ -1,0 +1,10 @@
+250	179	15949
+250	175	29804
+250	103	29722
+250	84	29723
+250	86	29726
+250	81	29731
+250	81	29721
+error	error	error
+error	error	error
+error	error	error

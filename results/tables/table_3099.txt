@@ -1,0 +1,10 @@
+250	67	10530
+250	67	29727
+250	66	29647
+250	66	29723
+250	66	29725
+250	67	29800
+250	67	29722
+error	error	error
+error	error	error
+error	error	error

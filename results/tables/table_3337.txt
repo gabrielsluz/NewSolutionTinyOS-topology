@@ -1,0 +1,10 @@
+250	63	19448
+250	31	18645
+250	6	13390
+250	25	9407
+250	41	18963
+250	35	18964
+250	82	19762
+error	error	error
+error	error	error
+error	error	error

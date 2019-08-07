@@ -1,0 +1,10 @@
+250	94	12438
+250	91	29569
+250	89	29803
+250	144	29800
+250	131	29806
+250	127	29721
+250	98	29722
+error	error	error
+error	error	error
+error	error	error

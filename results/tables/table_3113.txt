@@ -1,0 +1,10 @@
+250	18	8677
+250	2	1539
+250	14	9948
+250	84	18844
+250	75	18870
+250	45	16733
+250	50	16179
+error	error	error
+error	error	error
+error	error	error

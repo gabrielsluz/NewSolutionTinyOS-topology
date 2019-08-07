@@ -1,0 +1,10 @@
+250	69	10850
+250	69	29725
+250	65	29717
+250	68	29719
+250	69	29724
+250	69	29712
+250	69	29727
+error	error	error
+error	error	error
+error	error	error

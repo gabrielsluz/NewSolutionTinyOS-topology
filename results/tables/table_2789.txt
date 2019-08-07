@@ -1,0 +1,10 @@
+250	145	16274
+250	147	29659
+250	143	29734
+250	19	15583
+250	0	0
+250	0	0
+250	0	0
+error	error	error
+error	error	error
+error	error	error

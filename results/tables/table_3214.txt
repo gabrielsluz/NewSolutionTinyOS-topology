@@ -1,0 +1,10 @@
+250	87	17377
+250	99	29881
+250	92	29640
+250	93	29722
+250	93	29731
+250	91	29402
+250	92	29802
+error	error	error
+error	error	error
+error	error	error

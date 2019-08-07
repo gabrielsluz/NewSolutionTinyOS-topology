@@ -1,0 +1,10 @@
+250	107	10466
+250	97	29813
+250	97	29662
+250	91	29806
+250	96	29642
+250	98	29819
+250	90	29641
+error	error	error
+error	error	error
+error	error	error

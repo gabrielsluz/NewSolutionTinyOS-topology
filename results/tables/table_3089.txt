@@ -1,0 +1,10 @@
+250	130	10537
+250	95	29813
+250	110	29802
+250	118	29727
+250	99	29724
+250	113	29722
+250	111	29809
+error	error	error
+error	error	error
+error	error	error

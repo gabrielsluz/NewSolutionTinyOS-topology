@@ -1,0 +1,10 @@
+5	2	1010
+5	3	1986
+5	2	1000
+5	3	1989
+5	2	992
+5	3	1993
+5	2	999
+error	error	error
+error	error	error
+error	error	error
